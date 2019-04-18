@@ -26,7 +26,7 @@ public class VisibilityDemo {
         }
 
         VisibilityDemo.is = false;
-        System.out.println("被置为false了");
+        System.out.println("被置为false了!!!!!!!");
     }
 
 }
